@@ -23,12 +23,14 @@ body{
     font-size: 60px;
     margin: 20px;
     letter-spacing: 10px;
+    -webkit-text-stroke: 3.5px black;
 }
 .container h2{
     margin: 0;
     font-size: 20px;
     font-weight: 500;
     font-style: italic;
+    -webkit-text-stroke: 0.5px black;
 }
 .count{
     margin: 40px 0;
