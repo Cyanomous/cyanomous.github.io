@@ -32,6 +32,12 @@ body{
     font-style: italic;
     -webkit-text-stroke: 0.5px black;
 }
+.container h4{
+    margin: 0;
+    font-weight: 500;
+    font-style: italic;
+    -webkit-text-stroke: 0.5px black;
+}
 .count{
     margin: 40px 0;
 }
