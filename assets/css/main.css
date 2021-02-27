@@ -1811,7 +1811,7 @@ ul.icons {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/banner.png");
+  background-image: url("../../assets/images/banner.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2061,7 +2061,7 @@ ul.icons {
   background-color: #ce1b28;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/background-1.png);
+  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../assets/images/background-1.png);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2392,7 +2392,7 @@ body {
   padding-top: 3.25rem; }
   body:before {
     content: ' ';
-    background-image: url(../../images/bg.jpg);
+    background-image: url(../../assets/images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -2499,7 +2499,7 @@ body {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: linear-gradient(rgba(17, 17, 17, 0.25), rgba(17, 17, 17, 0.25)), url("../../images/banner.jpg");
+  background-image: linear-gradient(rgba(17, 17, 17, 0.25), rgba(17, 17, 17, 0.25)), url("../../assets/images/banner.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
